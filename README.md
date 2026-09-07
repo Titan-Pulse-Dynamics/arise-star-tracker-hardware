@@ -1,3 +1,20 @@
+# ARISE Star Tracker
+=============================
+
+This repository contains the Star Tracker HW for ARISE.
+
+ARISE Star Tracker HW is derived from the OreSat Star Tracker HW developed by Portland State Aerospace Society.
+
+Original project:
+https://github.com/oresat/oresat-star-tracker-hardware
+
+Original license:
+The upstream repository does not specify a specific license. However, the upstream project itself defines CERN-OHL-S v2 as the Project's license. Specific original license is under investigation and it is retained.
+
+See the project history and upstream branch for provenance.
+
+TPD modifications are identified in CHANGELOG.md and the relevant files and documentation.
+
 # oresat-star-tracker
 
 This is the repository for all things related to the star tracker system for OreSat. The star tracker takes pictures of the local star field and returns the spacecraft's attitude (which way it's pointed). This is critical for both OreSat Live and the Cirrus Flux Camera missions which require the satellite to be pointed down to a specific location on the ground.
